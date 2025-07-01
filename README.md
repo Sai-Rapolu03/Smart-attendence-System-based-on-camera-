@@ -33,7 +33,6 @@ By combining embedded hardware with computer vision, the system offers an **auto
    - Attendance is recorded with name, roll number, timestamp.
    - Data is saved in a monthly **Excel sheet**.
    
-> 💡 Future upgrades may include: cloud-based data storage, real-time notifications, integration of other biometric modalities, and more.
 
-## 📁 Project Structure
+
 
